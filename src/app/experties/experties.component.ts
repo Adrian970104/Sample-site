@@ -3,6 +3,7 @@ import { Component, OnInit } from '@angular/core';
 @Component({
   selector: 'app-experties',
   template: `
+    <div class="paragraph-bigger">Szolgáltatások</div>
     <div class="grid-container">
       <div class="grid-item">
         <img class="experties-icon" src="https://assets.website-files.com/5c6eb5400253230156de2bd6/5cdc0291bc4a389c517cea76_Icon%201.svg" width="50"/>
@@ -44,7 +45,14 @@ import { Component, OnInit } from '@angular/core';
   }
   .experties-icon {
     margin-bottom: 30px;
-}
+  }
+  .paragraph-bigger {
+      margin-bottom: 20px;
+      opacity: 1;
+      font-size: 45px;
+      font-weight: 500;
+      text-align: center;
+    }
   `
   ],
 })

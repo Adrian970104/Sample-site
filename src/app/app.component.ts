@@ -15,8 +15,8 @@ import { Component, OnInit } from '@angular/core';
   <!-- Home
   <app-home></app-home>
   -->
-  <!-- Contact US 
   <app-contact></app-contact>
+  <!-- Contact US 
   -->
   <!-- Footer -->
   <app-footer></app-footer>

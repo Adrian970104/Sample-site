@@ -26,7 +26,7 @@ import { Component, OnInit } from '@angular/core';
           </div>
         </div>
         <div class="carousel-item">
-        <div class="overlay-image" style="background-image:url(assets/image/02a.jpg);"></div>
+        <div class="overlay-image" style="background-image:url(assets/image/Constr_organic_2.jpg);"></div>
           <div class="container">
             <h1>ThirdPage</h1>
             <p>Text text text</p>
